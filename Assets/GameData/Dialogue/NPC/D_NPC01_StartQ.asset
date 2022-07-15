@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a161677d66d6ab43b5747ecaea4a92a, type: 3}
+  m_Name: D_NPC01_StartQ
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - id: pirce01
+    image: {fileID: 0}
+    text: "\u7B49\u7B49....\u7B49\u7B49\uFF0C\u670B\u53CB\u80FD\u5E2E\u6211\u4E2A\u5FD9\u5417"
+    information:
+      townName: 0
+      info: 
+    isEnd: 0
+    isGetReward: 0
+    quest: {fileID: 0}
+    options: []
+  - id: pirce02
+    image: {fileID: 0}
+    text: "\u6211\u5144\u5F1F\u7684\u817F\u88AB\u8349\u82D7\u9F9F\u54AC\u4F24\u4E86\uFF0C\u4F60\u80FD\u5E2E\u6211\u4EEC\u627E3\u4E2A\u4F24\u836F\u5417\uFF1F"
+    information:
+      townName: 0
+      info: 
+    isEnd: 0
+    isGetReward: 0
+    quest: {fileID: 0}
+    options: []
+  - id: start
+    image: {fileID: 0}
+    text: "\u4E24\u4E2A\u4EBA\u627E\u603B\u6BD4\u6211\u4E00\u4E2A\u4EBA\u627E\u6765\u7684\u5FEB\uFF0C\u62DC\u6258\u4E86\uFF01"
+    information:
+      townName: 0
+      info: 
+    isEnd: 0
+    isGetReward: 0
+    quest: {fileID: 11400000, guid: 76bb9856fb1ca4c46b9d07fa7022ec62, type: 2}
+    options:
+    - text: "\u6CA1\u95EE\u9898"
+      targetID: yes
+      takeQuest: 1
+    - text: "\u6211\u8FD8\u6709\u4E8B\u60C5\u505A"
+      targetID: no
+      takeQuest: 0
+  - id: yes
+    image: {fileID: 0}
+    text: "\u8C22\u8C22\u4F60\uFF0C\u4F60\u627E\u9F50\u540E\u5C31\u56DE\u5230\u8FD9\u91CC\u5427\u3002"
+    information:
+      townName: 0
+      info: 
+    isEnd: 1
+    isGetReward: 0
+    quest: {fileID: 11400000, guid: 76bb9856fb1ca4c46b9d07fa7022ec62, type: 2}
+    options: []
+  - id: no
+    image: {fileID: 0}
+    text: "\u597D\u5427\uFF0C\u4F60\u6539\u53D8\u4E3B\u610F\u7684\u8BDD\u518D\u6765\u627E\u6211\u3002"
+    information:
+      townName: 0
+      info: 
+    isEnd: 1
+    isGetReward: 0
+    quest: {fileID: 0}
+    options: []

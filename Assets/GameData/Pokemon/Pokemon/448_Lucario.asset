@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852b5996f6a21fd4b9bf200912a0965d, type: 3}
+  m_Name: 448_Lucario
+  m_EditorClassIdentifier: 
+  pokemonRoleImage: []
+  PUID: 3241XA
+  "pok\xE9dexID": 448
+  pokmeonName: "\u8DEF\u5361\u5229\u6B27"
+  sex: 1
+  nature: 2
+  firstType: 7
+  secondType: 17
+  ability:
+    abilityName: 
+    abilityEnum: 0
+  level: 10
+  experience: 1000
+  currentExperience: 0
+  upLevelExperience: 1000
+  holdingsItem: 
+  currentHP: 32
+  criticalHit: 0
+  Stat:
+    HP: 32
+    Attack: 20
+    Defense: 22
+    SpecialAttack: 13
+    SpecialDefense: 16
+    Speed: 12
+  speciesStrength:
+    HP: 70
+    Attack: 110
+    Defense: 70
+    SpecialAttack: 115
+    SpecialDefense: 70
+    Speed: 90
+  individual:
+    HPIV: 14
+    AttackIV: 20
+    DefenseIV: 24
+    SpecialAttackIV: 11
+    SpecialDefenseIV: 7
+    SpeedIV: 8
+  basePoints:
+    HP: 0
+    Attack: 0
+    Defense: 0
+    SpecialAttack: 0
+    SpecialDefense: 0
+    Speed: 0
+  equippedSkills: {fileID: 0}
+  skillToCanLearn: {fileID: 0}

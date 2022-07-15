@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53b620ba427f9ac42942d6331d66b4ef, type: 3}
+  m_Name: Team
+  m_EditorClassIdentifier: 
+  pokemons:
+  - {fileID: 11400000, guid: bd76519912540d5418c13f36b2d3a921, type: 2}
+  - {fileID: 11400000, guid: 718fe83d8d7045442a4a462f0c03246a, type: 2}

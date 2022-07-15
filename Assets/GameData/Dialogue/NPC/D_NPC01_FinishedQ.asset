@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a161677d66d6ab43b5747ecaea4a92a, type: 3}
+  m_Name: D_NPC01_FinishedQ
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - id: "\u7ED3\u675F"
+    image: {fileID: 0}
+    text: "\u4E0A\u6B21\u7684\u4E8B\u60C5\u8C22\u8C22\u4F60\u4E86\uFF0C\u5C31\u6015\u6211\u5144\u5F1F\u53C8\u53BB\u62DB\u60F9\u90A3\u4E9B\u8349\u82D7\u9F9F\u3002\u5BB3~"
+    isEnd: 0
+    quest: {fileID: 0}
+    options: []

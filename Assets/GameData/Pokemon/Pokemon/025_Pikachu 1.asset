@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852b5996f6a21fd4b9bf200912a0965d, type: 3}
+  m_Name: 025_Pikachu 1
+  m_EditorClassIdentifier: 
+  pokemonRoleImage:
+  - {fileID: -1263901719, guid: 97aa2af954345d64c8028f90592a71b1, type: 3}
+  - {fileID: 2056098863, guid: 301be2a7c93060f4ca2998b5debebf5e, type: 3}
+  PUID: 
+  "pok\xE9dexID": ???
+  pokmeonName: "\u76AE\u5361\u4E18\uFF08\u767E\u53D8\u602A\uFF09"
+  sex: 2
+  nature: 10
+  firstType: 4
+  secondType: 10
+  ability:
+    abilityName: 
+    abilityEnum: 0
+  level: 15
+  experience: 100
+  currentExperience: 1288
+  upLevelExperience: 1500
+  holdingsItem: 
+  currentHP: 42
+  criticalHit: 0.01
+  Stat:
+    HP: 42
+    Attack: 19
+    Defense: 19
+    SpecialAttack: 36
+    SpecialDefense: 28
+    Speed: 41
+  speciesStrength:
+    HP: 35
+    Attack: 55
+    Defense: 40
+    SpecialAttack: 50
+    SpecialDefense: 50
+    Speed: 90
+  individual:
+    HPIV: 27
+    AttackIV: 5
+    DefenseIV: 14
+    SpecialAttackIV: 24
+    SpecialDefenseIV: 30
+    SpeedIV: 24
+  basePoints:
+    HP: 74
+    Attack: 0
+    Defense: 0
+    SpecialAttack: 252
+    SpecialDefense: 111
+    Speed: 166
+  equippedSkills: {fileID: 11400000, guid: 889d4ecbf0b99bc4ea862213aaae4f6a, type: 2}
+  skillToCanLearn: {fileID: 11400000, guid: 4bdf9a42153a8df46ad2d230d31a7790, type: 2}

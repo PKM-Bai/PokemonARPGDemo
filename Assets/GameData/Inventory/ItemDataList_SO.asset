@@ -1,0 +1,276 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29ed2881c4a25a4983274882ef7494c, type: 3}
+  m_Name: ItemDataList_SO
+  m_EditorClassIdentifier: 
+  itemList:
+  - itemImage: {fileID: 21300000, guid: 5209df06c88f4cb4999284db1366de1c, type: 3}
+    itemID: 17
+    itemName: "\u4F24\u836F"
+    tabType: 1
+    itemType: 1
+    itemInfo: "\u55B7\u96FE\u5F0F\u4F24\u836F\u3002\n\u80FD\u8BA91\u53EA\u5B9D\u53EF\u68A6\u6062\u590D20HP\u3002"
+    buyMoney: 300
+    sellMoney: 150
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 79b7da739aca83740924cafc54a14548, type: 3}
+    itemID: 23
+    itemName: "\u5168\u590D\u836F"
+    tabType: 1
+    itemType: 1
+    itemInfo: "\u80FD\u56DE\u590D1\u53EA\u5B9D\u53EF\u68A6\u7684\u6240\u6709HP\u5E76\u6CBB\u6108\u6240\u6709\u5F02\u5E38\u72B6\u6001\u3002"
+    buyMoney: 3000
+    sellMoney: 1500
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 6355f9fc1f7a07748bc0a94a8f30fbd4, type: 3}
+    itemID: 24
+    itemName: "\u5168\u6EE1\u836F"
+    tabType: 1
+    itemType: 1
+    itemInfo: "\u55B7\u96FE\u5F0F\u4F24\u836F\u3002\n\u80FD\u8BA91\u53EA\u5B9D\u53EF\u68A6\u56DE\u590D\u6240\u6709HP\u3002"
+    buyMoney: 2500
+    sellMoney: 1250
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 6f6801844d201d447a9b3296d1d1f227, type: 3}
+    itemID: 26
+    itemName: "\u597D\u4F24\u836F"
+    tabType: 1
+    itemType: 1
+    itemInfo: "\u55B7\u96FE\u5F0F\u4F24\u836F\u3002\u80FD\u8BA91\u53EA\u5B9D\u53EF\u68A6\u56DE\u590D60HP\u3002"
+    buyMoney: 700
+    sellMoney: 350
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 40628b96bce167b4c9a6e8e1a1bb7470, type: 3}
+    itemID: 28
+    itemName: "\u6D3B\u529B\u788E\u7247"
+    tabType: 1
+    itemType: 1
+    itemInfo: "\u80FD\u8BA91\u53EA\u9677\u5165\u6FD2\u6B7B\u7684\u5B9D\u53EF\u68A6\u91CD\u83B7\u751F\u673A\uFF0C\u5E76\u56DE\u590D\u4E00\u534AHP\u3002"
+    buyMoney: 1500
+    sellMoney: 750
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 33c9b4c1faebc854bb7b7057e55feb3e, type: 3}
+    itemID: 29
+    itemName: "\u6D3B\u529B\u5757"
+    tabType: 1
+    itemType: 1
+    itemInfo: "\u80FD\u8BA91\u53EA\u9677\u5165\u6FD2\u6B7B\u7684\u5B9D\u53EF\u68A6\u91CD\u83B7\u751F\u673A\uFF0C\u5E76\u56DE\u590D\u6240\u6709HP\u3002"
+    buyMoney: 4000
+    sellMoney: 2000
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 88e67cd7a2a25ef4f86ade0b94c4a121, type: 3}
+    itemID: 86
+    itemName: "\u5C0F\u8611\u83C7"
+    tabType: 4
+    itemType: 0
+    itemInfo: "\r\u73CD\u7A00\u7684\u5C0F\u8611\u83C7\u3002\n\u5728\u4E00\u4E9B\u7231\u597D\u8005\u4E2D\u6709\u7740\u76F8\u5F53\u9AD8\u7684\u4EBA\u6C14\u3002"
+    buyMoney: 0
+    sellMoney: 250
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: fb2a97e809875d047a8a50886bea2bb6, type: 3}
+    itemID: 87
+    itemName: "\u5927\u8611\u83C7"
+    tabType: 4
+    itemType: 0
+    itemInfo: "\u73CD\u7A00\u7684\u5927\u8611\u83C7\u3002\n\u5728\u4E00\u4E9B\u7231\u597D\u8005\u4E2D\u6709\u7740\u975E\u5E38\u9AD8\u7684\u4EBA\u6C14\u3002"
+    buyMoney: 0
+    sellMoney: 2500
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: b80831c8b24cc4746acf9593338fe3d2, type: 3}
+    itemID: 88
+    itemName: "\u73CD\u73E0"
+    tabType: 4
+    itemType: 0
+    itemInfo: "\u6563\u53D1\u7740\u7F8E\u4E3D\u94F6\u8F89\u4E14\u6709\u70B9\u5C0F\u7684\u73CD\u73E0\u3002\n\u53EF\u4EE5\u5728\u5546\u5E97\u4F4E\u4EF7\u51FA\u552E\u3002"
+    buyMoney: 0
+    sellMoney: 700
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 09f9c26e8290c9346980bf2833808b7b, type: 3}
+    itemID: 89
+    itemName: "\u5927\u73CD\u73E0"
+    tabType: 4
+    itemType: 0
+    itemInfo: "\u6563\u53D1\u7740\u7F8E\u4E3D\u94F6\u8F89\u4E14\u76F8\u5F53\u5927\u9897\u7684\u73CD\u73E0\u3002\n\u53EF\u4EE5\u5728\u5546\u5E97\u9AD8\u4EF7\u51FA\u552E\u3002"
+    buyMoney: 0
+    sellMoney: 3750
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 4b1132c27eeec2a498b0a071a9539fde, type: 3}
+    itemID: 90
+    itemName: "\u661F\u661F\u6C99\u5B50"
+    tabType: 4
+    itemType: 0
+    itemInfo: "\u624B\u611F\u7EC6\u817B\u4E14\u5341\u5206\u9B45\u529B\u7684\u7EA2\u8272\u50BB\u5B50\u3002\n\u53EF\u4EE5\u5728\u5546\u5E97\u4F4E\u4EF7\u51FA\u552E\u3002"
+    buyMoney: 0
+    sellMoney: 1000
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 1254acf9e5aa54840ab3f6b42da7b63b, type: 3}
+    itemID: 91
+    itemName: "\u661F\u661F\u788E\u7247"
+    tabType: 4
+    itemType: 0
+    itemInfo: "\u95EA\u7740\u7EA2\u5149\u4E14\u5341\u5206\u7F8E\u4E3D\u7684\u5B9D\u77F3\u788E\u7247\u3002\n\u53EF\u4EE5\u5728\u5546\u5E97\u9AD8\u4EF7\u51FA\u552E\u3002"
+    buyMoney: 0
+    sellMoney: 4900
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: fed23ac64dd82c746b626ab0e5d3d4f0, type: 3}
+    itemID: 92
+    itemName: "\u91D1\u73E0"
+    tabType: 4
+    itemType: 0
+    itemInfo: "\u95EA\u7740\u91D1\u5149\uFF0C\u4EE5\u7EAF\u91D1\u5236\u6210\u7684\u73E0\u5B50\u3002\n\u53EF\u4EE5\u5728\u5546\u5E97\u9AD8\u4EF7\u51FA\u552E\u3002"
+    buyMoney: 0
+    sellMoney: 5000
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: d73b34a3c3a89424985107ad0e963eb5, type: 3}
+    itemID: 149
+    itemName: "\u6A31\u5B50\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u53EF\u4EE5\u5C06\u5904\u4E8E\u9EBB\u75F9\u72B6\u6001\u7684\u5B9D\u53EF\u68A6\uFF0C\n\u6CBB\u6108\u5B83\u7684\u9EBB\u75F9\u72B6\u6001\u3002"
+    buyMoney: 0
+    sellMoney: 10
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 537ec21919e8b044387ffef60433c254, type: 3}
+    itemID: 150
+    itemName: "\u96F6\u4F59\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u53EF\u4EE5\u5C06\u5904\u4E8E\u7761\u7720\u72B6\u6001\u7684\u5B9D\u53EF\u68A6\uFF0C\n\u6CBB\u6108\u5B83\u7684\u7761\u7720\u72B6\u6001\u3002"
+    buyMoney: 0
+    sellMoney: 10
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: c4d25c945f6831f47b775739b53beb36, type: 3}
+    itemID: 151
+    itemName: "\u6843\u6843\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u53EF\u4EE5\u5C06\u5904\u4E8E\u4E2D\u6BD2\u6216\u5267\u6BD2\u72B6\u6001\u7684\u5B9D\u53EF\u68A6\uFF0C\n\u6CBB\u6108\u5B83\u7684\u4E2D\u6BD2\u6216\u5267\u6BD2\u72B6\u6001\u3002"
+    buyMoney: 0
+    sellMoney: 10
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 23a0870075547c349bd6b319b69f4b2c, type: 3}
+    itemID: 152
+    itemName: "\u9709\u9709\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u53EF\u4EE5\u5C06\u5904\u4E8E\u707C\u4F24\u72B6\u6001\u7684\u5B9D\u53EF\u68A6\uFF0C\n\u6CBB\u6108\u5B83\u7684\u707C\u4F24\u72B6\u6001\u3002"
+    buyMoney: 0
+    sellMoney: 10
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 7fb7e3aaa15e0a743bd5843f7bbe4695, type: 3}
+    itemID: 153
+    itemName: "\u5229\u6728\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u53EF\u4EE5\u5C06\u5904\u4E8E\u51B0\u51BB\u72B6\u6001\u7684\u5B9D\u53EF\u68A6\uFF0C\n\u6CBB\u6108\u5B83\u7684\u51B0\u51BB\u72B6\u6001\u3002"
+    buyMoney: 0
+    sellMoney: 10
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: d0ffd09b41ce3344a87fda73c06f54ec, type: 3}
+    itemID: 154
+    itemName: "\u82F9\u91CE\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u6062\u590D1\u4E2A\u62DB\u5F0F10PP"
+    buyMoney: 0
+    sellMoney: 10
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 1a4796b2b9fd55b49aef475a44bbc752, type: 3}
+    itemID: 155
+    itemName: "\u6A59\u6A59\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u56DE\u590D\u5B9D\u53EF\u68A610HP"
+    buyMoney: 0
+    sellMoney: 10
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 955b3451257db98429e5107b9f8df893, type: 3}
+    itemID: 156
+    itemName: "\u67FF\u4ED4\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u53EF\u4EE5\u5C06\u5904\u4E8E\u6DF7\u4E71\u72B6\u6001\u7684\u5B9D\u53EF\u68A6\uFF0C\n\u6CBB\u6108\u5B83\u7684\u6DF7\u4E71\u72B6\u6001\u3002"
+    buyMoney: 0
+    sellMoney: 10
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 7d4c67dc4b00ec5469ef1091a90fcf6c, type: 3}
+    itemID: 157
+    itemName: "\u6728\u5B50\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u53EF\u4EE5\u5C06\u5904\u4E8E\u5F02\u5E38\u72B6\u6001\u6216\u6DF7\u4E71\u72B6\u6001\u7684\u5B9D\u53EF\u68A6\uFF0C\n\u6CBB\u6108\u5B83\u7684\u8BE5\u72B6\u6001\u3002"
+    buyMoney: 0
+    sellMoney: 100
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 0b04482296e181e40b483313741dc3e6, type: 3}
+    itemID: 158
+    itemName: "\u6587\u67DA\u679C"
+    tabType: 3
+    itemType: 1
+    itemInfo: "\u4F7F\u7528\u65F6\u56DE\u590D\u5B9D\u53EF\u68A6\u6700\u5927\uFF28\uFF30\u76841\u20444"
+    buyMoney: 0
+    sellMoney: 30
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 8704400c8ee1a1948832b4c8ec1e1219, type: 3}
+    itemID: 220
+    itemName: "\u8BB2\u7A76\u5934\u5E26"
+    tabType: 0
+    itemType: 2
+    itemInfo: "\u5B9D\u53EF\u68A6\u643A\u5E26\u8BE5\u9053\u5177\u540E\u63D0\u534750%\u7684\u653B\u51FB\u3002"
+    buyMoney: 0
+    sellMoney: 100
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: ed84b42056792fc418c54876196cc19d, type: 3}
+    itemID: 223
+    itemName: "\u62A4\u7B26\u91D1\u5E01"
+    tabType: 0
+    itemType: 2
+    itemInfo: "\u5B9D\u53EF\u68A6\u643A\u5E26\u8BE5\u9053\u5177\u540E\u53C2\u4E0E\u4E86\u6218\u6597\uFF0C\u6218\u6597\u7ED3\u675F\u540E\u83B7\u5F97\u7684\u91D1\u5E01\u7FFB\u500D\u3002"
+    buyMoney: 0
+    sellMoney: 100
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 630167dbf0c09d542a9375609c70c6af, type: 3}
+    itemID: 231
+    itemName: "\u5E78\u8FD0\u86CB"
+    tabType: 0
+    itemType: 2
+    itemInfo: "\u643A\u5E26\u8BE5\u9053\u5177\u7684\u5B9D\u53EF\u68A6\u5BF9\u6218\u7ED3\u675F\u540E\u83B7\u5F97\u7684\u7ECF\u9A8C\u503C\u63D0\u534750%\u3002"
+    buyMoney: 0
+    sellMoney: 100
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: 6a2c9628b2414084abab83ef7c9bb180, type: 3}
+    itemID: 236
+    itemName: "\u7535\u6C14\u7403"
+    tabType: 0
+    itemType: 2
+    itemInfo: "\u5F53\u643A\u5E26\u8005\u662F\u76AE\u5361\u4E18\u65F6\uFF0C\u9020\u6210\u7684\u4F24\u5BB3<color=red>\u7FFB\u500D</color>\u3002"
+    buyMoney: 0
+    sellMoney: 1500
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: e227ac51eb088db4bac7ea9da486c923, type: 3}
+    itemID: 287
+    itemName: "\u8BB2\u7A76\u56F4\u5DFE"
+    tabType: 0
+    itemType: 2
+    itemInfo: "\u5F53\u643A\u5E26\u65F6\uFF0C\u643A\u5E26\u8005\u901F\u5EA6\u589E\u52A050%\u3002"
+    buyMoney: 2500
+    sellMoney: 1250
+    amount: 0
+  - itemImage: {fileID: 21300000, guid: b843f39b33fea4742b59e5a2678e5dd6, type: 3}
+    itemID: 297
+    itemName: "\u8BB2\u7A76\u773C\u955C"
+    tabType: 0
+    itemType: 2
+    itemInfo: "\u5F53\u643A\u5E26\u65F6\uFF0C\u8FDE\u7EED\u4F7F\u7528\u7279\u653B\u7C7B\u6280\u80FD\u53EF\u4F7F\u5A01\u529B\u63D0\u9AD850%\u3002"
+    buyMoney: 0
+    sellMoney: 1500
+    amount: 0

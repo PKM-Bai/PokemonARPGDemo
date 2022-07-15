@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Row" style="height: 50px; -unity-text-align: middle-left; justify-content: flex-start; flex-direction: row; align-items: center;">
+        <ui:VisualElement name="Icon" style="background-image: resource(&apos;Image/Pokemon/items/Bag_未知_Sprite&apos;); width: 30px; height: 30px; -unity-text-align: middle-left; align-items: flex-start; justify-content: flex-start; flex-direction: column;" />
+        <ui:Label text="Label" display-tooltip-when-elided="true" name="Name" style="font-size: 16px;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73b30f2cb067e2c419fe25a8de8a11e8, type: 3}
+  m_Name: SoundDetailsList
+  m_EditorClassIdentifier: 
+  soundDetailsList:
+  - soundName: 9
+    soundCilp: {fileID: 8300000, guid: b6d380746851b3745bb75999ab7a3a67, type: 3}
+    soundVolume: 0.6
+  - soundName: 10
+    soundCilp: {fileID: 8300000, guid: acad5e0e251672f4286235a6b0ea268f, type: 3}
+    soundVolume: 0.65
+  - soundName: 11
+    soundCilp: {fileID: 8300000, guid: 97840912c211dd04986a2ab37a781cfe, type: 3}
+    soundVolume: 0.62
+  - soundName: 12
+    soundCilp: {fileID: 8300000, guid: 2121b9489cbe2cd47ba8c05d259d10f7, type: 3}
+    soundVolume: 0.62
+  - soundName: 1
+    soundCilp: {fileID: 8300000, guid: df0bbf36a3826934b9d8b8d1eb9a7f68, type: 3}
+    soundVolume: 0.8
+  - soundName: 2
+    soundCilp: {fileID: 8300000, guid: 1c7dfa54e22d9d940bd8a0a56dd8987b, type: 3}
+    soundVolume: 0.8
+  - soundName: 3
+    soundCilp: {fileID: 8300000, guid: aeb4dd38a7c4b974d8093b8b8e0988d4, type: 3}
+    soundVolume: 0.8
+  - soundName: 4
+    soundCilp: {fileID: 8300000, guid: df0bbf36a3826934b9d8b8d1eb9a7f68, type: 3}
+    soundVolume: 0.8
+  - soundName: 5
+    soundCilp: {fileID: 8300000, guid: ba8db904ea51b7b4c9c5e39a6d37b313, type: 3}
+    soundVolume: 0.8
+  - soundName: 6
+    soundCilp: {fileID: 8300000, guid: df0bbf36a3826934b9d8b8d1eb9a7f68, type: 3}
+    soundVolume: 0.8
+  - soundName: 7
+    soundCilp: {fileID: 8300000, guid: ac3f1a8a4f1f56c41b10fcbc3637df88, type: 3}
+    soundVolume: 0.6
+  - soundName: 8
+    soundCilp: {fileID: 8300000, guid: e288ff29a21634b4aaab061c3c72a99e, type: 3}
+    soundVolume: 0.8

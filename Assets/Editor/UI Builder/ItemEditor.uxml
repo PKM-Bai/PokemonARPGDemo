@@ -1,0 +1,47 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="Container" style="flex-grow: 1; flex-direction: row;">
+        <ui:VisualElement name="ItemList" style="flex-direction: column; width: 30%; height: 100%;">
+            <ui:VisualElement name="Header" style="flex-direction: row; align-items: center; justify-content: space-between;">
+                <ui:Label text="物品列表" display-tooltip-when-elided="true" name="itemList" style="font-size: 20px; -unity-font-style: bold;">
+                    <ui:DropdownField index="-1" choices="升序(ID),降序(ID)" tabindex="0" name="Sort" style="justify-content: center; align-items: center; flex-direction: row; margin-left: 3px; padding-left: 100px; height: 20px; width: 175px; font-size: 12px; -unity-font-style: normal;" />
+                </ui:Label>
+                <ui:Button text="+" display-tooltip-when-elided="true" name="AddButton" style="width: 20px; height: 20px;" />
+            </ui:VisualElement>
+            <ui:VisualElement picking-mode="Ignore" name="Search" style="height: 25px; -unity-font: resource(&apos;TTF/TMP/msyh&apos;); flex-direction: row;">
+                <ui:TextField label="搜索：" text="在这里输入" tooltip="输入你要搜索的物品名或者ID" focusable="true" max-length="-1" password="false" name="Search" style="width: 100%; justify-content: space-between; align-items: center; transform-origin: center; padding-right: 0; opacity: 0.8; flex-direction: row; overflow: hidden; left: auto; -unity-font: url(&apos;project://database/Assets/Resources/TTF/TMP/msyh.ttc?fileID=12800000&amp;guid=c32ff40917323c645b435d423d99314a&amp;type=3#msyh&apos;);" />
+            </ui:VisualElement>
+            <ui:ListView focusable="true" show-border="true" name="ListView" reorderable="true" show-add-remove-footer="false" style="flex-grow: 1; border-right-color: rgb(135, 135, 135); border-left-color: rgb(135, 135, 135); border-top-color: rgb(135, 135, 135); border-bottom-color: rgb(135, 135, 135); -unity-text-outline-color: rgb(0, 0, 0); color: rgb(210, 210, 210); border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0;" />
+        </ui:VisualElement>
+        <ui:ScrollView name="ScrollView" style="width: 70%; height: 100%; border-left-width: 2px; border-right-width: 2px; border-top-width: 2px; border-bottom-width: 2px; border-left-color: rgb(101, 101, 101); border-right-color: rgb(101, 101, 101); border-top-color: rgb(101, 101, 101); border-bottom-color: rgb(101, 101, 101); border-top-left-radius: 5px; border-bottom-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px;">
+            <ui:VisualElement name="Header" style="flex-direction: row; justify-content: space-between; align-items: center;">
+                <ui:Label text="   详情" display-tooltip-when-elided="true" name="ItemDescription" style="font-size: 20px; -unity-font-style: bold;" />
+                <ui:Button text="-" display-tooltip-when-elided="true" name="DeleteButton" style="font-size: 16px; height: 20px; width: 20px;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="ItemContent" style="flex-grow: 1;">
+                <ui:VisualElement name="Row1" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0);">
+                    <ui:VisualElement style="align-items: center; justify-content: space-between; flex-direction: row; min-width: 372px; width: auto; flex-shrink: 0; left: 0; top: 0; right: 0; bottom: 0; opacity: 1;">
+                        <ui:Label text="General" display-tooltip-when-elided="true" name="Title" style="-unity-text-outline-color: rgb(0, 0, 0); background-color: rgb(43, 42, 42); font-size: 16px; padding-left: 5px; padding-top: 3px; padding-bottom: 3px; width: 80px; justify-content: flex-end; align-items: flex-start;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="Container" style="border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); flex-direction: row; align-items: center;">
+                        <ui:VisualElement name="Icon" style="background-image: resource(&apos;Image/Pokemon/items/001-精灵球道具箱&apos;); width: 80px; height: 80px; margin-left: 20px; margin-right: 20px; align-items: stretch;" />
+                        <ui:VisualElement name="Gerneral" style="margin-top: 5px; margin-bottom: 5px; margin-right: 5px; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-top-left-radius: 5px; border-bottom-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); width: 100%;">
+                            <uie:IntegerField label="ItemID" value="17" name="ItemID" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; -unity-text-align: middle-left;" />
+                            <ui:TextField picking-mode="Ignore" label="Name" value="filler text" text="精灵球" name="ItemName" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; -unity-text-align: middle-left;" />
+                            <uie:EnumField label="TabType" value="Center" name="TabType" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; -unity-text-align: middle-left;" />
+                            <uie:EnumField label="ActionType" value="Center" name="ActionType" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; -unity-text-align: middle-left;" />
+                            <uie:ObjectField label="Icon" name="Image" type="UnityEngine.Sprite, UnityEngine.CoreModule" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; -unity-text-align: middle-left; background-image: none;" />
+                            <uie:IntegerField label="Buy Money" value="42" name="BuyMoney" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; -unity-text-align: middle-left;" />
+                            <uie:IntegerField label="Sell Money" value="42" name="SellMoney" style="padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px; -unity-text-align: middle-left;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="Row2" style="border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px;">
+                    <ui:Label text="Description" display-tooltip-when-elided="true" name="Title" style="-unity-text-outline-color: rgb(0, 0, 0); background-color: rgb(43, 42, 42); font-size: 16px; padding-left: 5px; padding-top: 3px; padding-bottom: 3px;" />
+                    <ui:VisualElement name="Container">
+                        <ui:TextField picking-mode="Ignore" label="Info" value="filler text" text="filler text" multiline="true" name="Info" style="flex-direction: column; font-size: 12px; height: 100px; margin-left: 5px; margin-right: 5px; margin-top: 3px; margin-bottom: 3px;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>

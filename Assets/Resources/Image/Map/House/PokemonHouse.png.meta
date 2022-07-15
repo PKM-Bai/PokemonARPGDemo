@@ -1,0 +1,1684 @@
+fileFormatVersion: 2
+guid: 4ac7566de4225f743a3eee310ad10522
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PokemonHouse_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 999
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af44be56496d0b845a36e96d0b86469f
+      internalID: 1270923519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 999
+        width: 80
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c61884f8e4c8cf4184d1b118bdc329c
+      internalID: -222662916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 829
+        width: 112
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e757345120de4fa6c2df26988baea
+      internalID: 350357308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 981
+        width: 64
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8b9bb539ffe8640804e413e84ece9b
+      internalID: -1520444671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 982
+        width: 112
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9775a798cc14d8c42adf9fde879a7414
+      internalID: 189723123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 974
+        width: 96
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020912e420b6fa488fd0b214bb6fb1b
+      internalID: 2010166768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_6
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 978
+        width: 112
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e48a4649489244cb9a62d36fc19fb6
+      internalID: 527530208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_7
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 829
+        width: 144
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfd8d51b3f0bb24683e45fdbccd8e14
+      internalID: -610596177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 931
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b6abd8423e49945a405b4711f1153f
+      internalID: 934746386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 922
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0114e152d1e2334da43fa53af5936a0
+      internalID: -859190555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 863
+        width: 80
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f648d0d6b83741ba4c55afd09ed91
+      internalID: 2121482595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 855
+        width: 96
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76036f83add66ed438b93f30171efa7f
+      internalID: -1688903321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 880
+        width: 80
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d46cd750f218c4394dd2e4250e1f3b
+      internalID: 1350916416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_13
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 897
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f567d3c7d48291408e5b138ca29f32a
+      internalID: -187092217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 846
+        width: 80
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd19945cca95df841a8d41a19fa192bb
+      internalID: 702334601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 846
+        width: 80
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b59ab8a004a54c4a8537d3d1a6a7a2f
+      internalID: 31789994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_16
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 795
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a057ab2441c3541b79e428c235e44c
+      internalID: -491563122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 829
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3415a99243edf5846b755c0b0083300c
+      internalID: -1261550067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 778
+        width: 96
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f847b680156ed44ebc64c1b808de670
+      internalID: -2124866150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 771
+        width: 64
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79e0875eb224a54990171f381fbddb3
+      internalID: -1106081252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 695
+        width: 256
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb909132cd3f85a4d949ff0e39ff009f
+      internalID: -2119219583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_21
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 778
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52621cf907cc1540b2a004cd512d40b
+      internalID: -331408386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_22
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 761
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33f289eefefdd4ea6568b2bb075048
+      internalID: -391317240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_23
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 531
+        width: 176
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b77afc0a1b44d45a4831f7adf2ca5d
+      internalID: -686884493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 693
+        width: 64
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba33109eed088a54a947d82a3f4c2ce4
+      internalID: 1683680648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 693
+        width: 112
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cfd9c5998ac274a87b605764e4611b
+      internalID: -1532652427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 695
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcf91d7571f8054cbb6cf97c96570af
+      internalID: 1501133067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 695
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d126eecdbea72c4baff27e36d94ae1f
+      internalID: -944526169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 676
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6f9798c38925a49844fc30d8790618
+      internalID: -2020349711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_29
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 671
+        width: 112
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6efefe79e8d254baba12dd229167f7
+      internalID: 1349544244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_30
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 676
+        width: 112
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ccaf2112ffd04ca584003e989827c
+      internalID: 1361270311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 608
+        width: 112
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4250d8afff1a3884d9a93b3ed1d8d07f
+      internalID: -900953193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 608
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97abfbef554158443a2e9dadc51686c1
+      internalID: 1490486187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 500
+        width: 142
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d73472c97af0488df9f0e1f824c90
+      internalID: 1360533826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_34
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 608
+        width: 80
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb9057097a63c941a39769b98891803
+      internalID: -658820949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_35
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 558
+        width: 112
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cbdabd078694747b55a46ae45740e1
+      internalID: 1269907405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_36
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 598
+        width: 48
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682141c4e7a7cc54786f500db97ebf61
+      internalID: -538631664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_37
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 607
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486d9cc5ac64dfd42974c9450cb41d62
+      internalID: 1344362916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 540
+        width: 96
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e348f9f40d8a846b7bd2b48936fa11
+      internalID: 103205225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_39
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 540
+        width: 112
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0080bc92d1fc8564bbebd6e29c6447f7
+      internalID: -310579821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_40
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 523
+        width: 96
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bd9ac7e3303754dbfef0fad6d0e127
+      internalID: 1745102882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 472
+        width: 112
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a0da70f119219459c9bf6702e03b64
+      internalID: -1354547865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_42
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 472
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667b8445b2211b4f882ded77a966fb6
+      internalID: -1703054789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 404
+        width: 96
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f0b5c1b5e503548b3d197bde5db817
+      internalID: -828121397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_44
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 404
+        width: 128
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096fdaa321e9afd4fa99979628960b4a
+      internalID: -2087070093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_45
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 320
+        width: 144
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656b28a487a86cf479ec3344f5780269
+      internalID: 792915962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 379
+        width: 80
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde5ddb5802d0d4eb00d6dd67021662
+      internalID: -1498681740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 365
+        width: 64
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e4d8b72dc67941981244baa464164
+      internalID: 1070522591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 386
+        width: 64
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145f780f72f5ec647a67eb23c7eee6fc
+      internalID: -508505219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 405
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7efea70dc1f034e92578b943501ff4
+      internalID: -765663218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 295
+        width: 80
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415729cfba2d5ad4b87556890c38b487
+      internalID: 1168510472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_51
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 285
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0215d8087c0165a4891ef7714ff50c42
+      internalID: -1286523469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_52
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 251
+        width: 112
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f5e968f77619a4bad24f48f2b0be4b
+      internalID: -1593923681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 251
+        width: 80
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284163a2b6e7164c9e14e85063ecacd
+      internalID: 2024514974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_54
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 299
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c036adc1739f948ac184db300f59e7
+      internalID: 205479040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b584e12d08e6945aab13011f76c4ce
+      internalID: -868419468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 200
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0726d4ac90606d42b057b818aad5a16
+      internalID: 372044969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 115
+        width: 112
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a68a2cfd3ae71469d52099d89ec005
+      internalID: 1031465015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_58
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 183
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd53a38799109f43a04464ace5feac3
+      internalID: 2083423779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae74a8a63c89524cb0a912ed6c39ec7
+      internalID: 1814109365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_60
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 162
+        width: 124
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbfaf6ea55d2b34ea2eb2e66361343e
+      internalID: -1889221074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_61
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 115
+        width: 64
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d92e42ee1ca8e409fc72a810bc85c4
+      internalID: -219650073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 132
+        width: 96
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587b4279479218d4a9d0a047a05ed28e
+      internalID: -608016091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_63
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 98
+        width: 64
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ada31d4a24d7e4aa5399849674ba16
+      internalID: 525029764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 106
+        width: 111
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8645b21f8f4dc1b4f843143a7705c519
+      internalID: -736593532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_65
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 30
+        width: 176
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840657f3999379041b69837e68ad0aca
+      internalID: 1169592922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_66
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 23
+        width: 160
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de5cfdc36db61b43a390ab146123920
+      internalID: 1465320576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_67
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 14
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453558027ed992b4eb912ebcf497c2f1
+      internalID: -2053010966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 128
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e676b2e6bebd4d8bfdc30869887ab
+      internalID: 754227402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_69
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 13
+        width: 80
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9316627583184146aca8b67854c514f
+      internalID: 108481853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonHouse_70
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 30
+        width: 80
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c83c9ee081c74c4ab1231df3e408c34
+      internalID: -1335857938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PokemonHouse_11: -1688903321
+      PokemonHouse_70: -1335857938
+      PokemonHouse_1: -222662916
+      PokemonHouse_30: 1361270311
+      PokemonHouse_13: -187092217
+      PokemonHouse_58: 2083423779
+      PokemonHouse_69: 108481853
+      PokemonHouse_17: -1261550067
+      PokemonHouse_59: 1814109365
+      PokemonHouse_44: -2087070093
+      PokemonHouse_23: -686884493
+      PokemonHouse_56: 372044969
+      PokemonHouse_16: -491563122
+      PokemonHouse_18: -2124866150
+      PokemonHouse_47: 1070522591
+      PokemonHouse_35: 1269907405
+      PokemonHouse_49: -765663218
+      PokemonHouse_50: 1168510472
+      PokemonHouse_15: 31789994
+      PokemonHouse_42: -1703054789
+      PokemonHouse_54: 205479040
+      PokemonHouse_32: 1490486187
+      PokemonHouse_55: -868419468
+      PokemonHouse_43: -828121397
+      PokemonHouse_8: 934746386
+      PokemonHouse_19: -1106081252
+      PokemonHouse_39: -310579821
+      PokemonHouse_22: -391317240
+      PokemonHouse_33: 1360533826
+      PokemonHouse_12: 1350916416
+      PokemonHouse_25: -1532652427
+      PokemonHouse_14: 702334601
+      PokemonHouse_29: 1349544244
+      PokemonHouse_3: -1520444671
+      PokemonHouse_51: -1286523469
+      PokemonHouse_53: 2024514974
+      PokemonHouse_66: 1465320576
+      PokemonHouse_20: -2119219583
+      PokemonHouse_57: 1031465015
+      PokemonHouse_31: -900953193
+      PokemonHouse_38: 103205225
+      PokemonHouse_60: -1889221074
+      PokemonHouse_61: -219650073
+      PokemonHouse_48: -508505219
+      PokemonHouse_9: -859190555
+      PokemonHouse_21: -331408386
+      PokemonHouse_2: 350357308
+      PokemonHouse_28: -2020349711
+      PokemonHouse_0: 1270923519
+      PokemonHouse_6: 527530208
+      PokemonHouse_46: -1498681740
+      PokemonHouse_52: -1593923681
+      PokemonHouse_7: -610596177
+      PokemonHouse_68: 754227402
+      PokemonHouse_45: 792915962
+      PokemonHouse_36: -538631664
+      PokemonHouse_4: 189723123
+      PokemonHouse_62: -608016091
+      PokemonHouse_24: 1683680648
+      PokemonHouse_64: -736593532
+      PokemonHouse_40: 1745102882
+      PokemonHouse_41: -1354547865
+      PokemonHouse_34: -658820949
+      PokemonHouse_37: 1344362916
+      PokemonHouse_63: 525029764
+      PokemonHouse_5: 2010166768
+      PokemonHouse_65: 1169592922
+      PokemonHouse_10: 2121482595
+      PokemonHouse_26: 1501133067
+      PokemonHouse_67: -2053010966
+      PokemonHouse_27: -944526169
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

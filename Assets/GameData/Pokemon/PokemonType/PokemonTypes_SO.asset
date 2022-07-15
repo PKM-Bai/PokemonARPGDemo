@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60d7ce9dcf4782d44ae34c6808a6e9d4, type: 3}
+  m_Name: PokemonTypes_SO
+  m_EditorClassIdentifier: 
+  pokemonTypeList:
+  - pokemonType: 1
+    typeImage: {fileID: 21300000, guid: fdcdc5f145c59fe4a87fe517b6d5dac0, type: 3}
+    atkAdvantageType: 
+    atkInferiorityType: 0d00000011000000
+    atkInvalidType: 0e000000
+    hitAdvantageType: 07000000
+    hitInferiorityType: 
+    hitInvalidType: 0e000000
+  - pokemonType: 2
+    typeImage: {fileID: 21300000, guid: 981fd56689ba5964fba2a407aef6a41c, type: 3}
+    atkAdvantageType: 050000000c0000000600000011000000
+    atkInferiorityType: 0d00000002000000030000000f000000
+    atkInvalidType: 
+    hitAdvantageType: 03000000090000000d000000
+    hitInferiorityType: 02000000050000000c000000060000001100000012000000
+    hitInvalidType: 
+  - pokemonType: 3
+    typeImage: {fileID: 21300000, guid: 90bb01d9288a81a439804be3a721d3b4, type: 3}
+    atkAdvantageType: 02000000090000000d000000
+    atkInferiorityType: 03000000050000000f000000
+    atkInvalidType: 
+    hitAdvantageType: 0500000004000000
+    hitInferiorityType: 02000000060000001100000003000000
+    hitInvalidType: 
+  - pokemonType: 4
+    typeImage: {fileID: 21300000, guid: dee85911d7d6ec644a3f41fb1e46dcf8, type: 3}
+    atkAdvantageType: 030000000a000000
+    atkInferiorityType: 04000000050000000f000000
+    atkInvalidType: 09000000
+    hitAdvantageType: 09000000
+    hitInferiorityType: 0a0000001100000004000000
+    hitInvalidType: 
+  - pokemonType: 5
+    typeImage: {fileID: 21300000, guid: 2435501b094bf1c498de115324b995a5, type: 3}
+    atkAdvantageType: 03000000090000000d000000
+    atkInferiorityType: 02000000040000000a0000000c000000110000000f00000005000000
+    atkInvalidType: 
+    hitAdvantageType: 02000000060000000a0000000c00000008000000
+    hitInferiorityType: 09000000030000000500000004000000
+    hitInvalidType: 
+  - pokemonType: 6
+    typeImage: {fileID: 21300000, guid: 8f319b250049e414bb2fd97e18ca7214, type: 3}
+    atkAdvantageType: 05000000090000000a0000000f000000
+    atkInferiorityType: 02000000030000001100000006000000
+    atkInvalidType: 
+    hitAdvantageType: 070000000d0000001100000002000000
+    hitInferiorityType: 06000000
+    hitInvalidType: 
+  - pokemonType: 7
+    typeImage: {fileID: 21300000, guid: 29d75f28455635e4cae88c803a64b79f, type: 3}
+    atkAdvantageType: 010000000600000011000000100000000d000000
+    atkInferiorityType: 0a000000080000000b000000120000000c000000
+    atkInvalidType: 0e000000
+    hitAdvantageType: 0a0000000b00000012000000
+    hitInferiorityType: 100000000d0000000c000000
+    hitInvalidType: 
+  - pokemonType: 8
+    typeImage: {fileID: 21300000, guid: 362c241ea318d614396f5ebcf5936cf9, type: 3}
+    atkAdvantageType: 0500000012000000
+    atkInferiorityType: 08000000090000000d0000000e000000
+    atkInvalidType: 11000000
+    hitAdvantageType: 090000000b000000
+    hitInferiorityType: 0700000008000000120000000c00000005000000
+    hitInvalidType: 
+  - pokemonType: 9
+    typeImage: {fileID: 21300000, guid: 6c743de7ed87d1941b04a9470b2cac9e, type: 3}
+    atkAdvantageType: 0200000004000000080000000d00000011000000
+    atkInferiorityType: 050000000c000000
+    atkInvalidType: 0a000000
+    hitAdvantageType: 030000000500000006000000
+    hitInferiorityType: 080000000d000000
+    hitInvalidType: 04000000
+  - pokemonType: 10
+    typeImage: {fileID: 21300000, guid: e6ddf36bf0eec6d4d93750b7e553033d, type: 3}
+    atkAdvantageType: 070000000c00000005000000
+    atkInferiorityType: 0d0000001100000004000000
+    atkInvalidType: 
+    hitAdvantageType: 0d0000000400000006000000
+    hitInferiorityType: 05000000070000000c000000
+    hitInvalidType: 09000000
+  - pokemonType: 11
+    typeImage: {fileID: 21300000, guid: 7328da28a9bbfb341b9cf301ea307643, type: 3}
+    atkAdvantageType: 0700000008000000
+    atkInferiorityType: 0b00000011000000
+    atkInvalidType: 10000000
+    hitAdvantageType: 0c0000000e00000010000000
+    hitInferiorityType: 070000000b000000
+    hitInvalidType: 
+  - pokemonType: 12
+    typeImage: {fileID: 21300000, guid: b01742e580945b94b9fb6e9b9b39d027, type: 3}
+    atkAdvantageType: 050000000b00000010000000
+    atkInferiorityType: 070000000a000000080000000e000000110000000200000012000000
+    atkInvalidType: 
+    hitAdvantageType: 0a0000000d00000002000000
+    hitInferiorityType: 090000000500000007000000
+    hitInvalidType: 
+  - pokemonType: 13
+    typeImage: {fileID: 21300000, guid: a6e240378dee0e84785a7438883f7f21, type: 3}
+    atkAdvantageType: 0a0000000c0000000200000006000000
+    atkInferiorityType: 070000000900000011000000
+    atkInvalidType: 
+    hitAdvantageType: 0700000009000000110000000300000005000000
+    hitInferiorityType: 010000000a0000000800000002000000
+    hitInvalidType: 
+  - pokemonType: 14
+    typeImage: {fileID: 21300000, guid: 4e5d118b4dd15bf4d9523e8365b61a28, type: 3}
+    atkAdvantageType: 0e0000000b000000
+    atkInferiorityType: 10000000
+    atkInvalidType: 01000000
+    hitAdvantageType: 0e00000010000000
+    hitInferiorityType: 0c00000008000000
+    hitInvalidType: 0100000007000000
+  - pokemonType: 15
+    typeImage: {fileID: 21300000, guid: 7e3a545a31116e84d8d19b33b32ce3bf, type: 3}
+    atkAdvantageType: 0f000000
+    atkInferiorityType: 11000000
+    atkInvalidType: 12000000
+    hitAdvantageType: 12000000060000000f000000
+    hitInferiorityType: 02000000030000000400000005000000
+    hitInvalidType: 
+  - pokemonType: 16
+    typeImage: {fileID: 21300000, guid: 31cc92e6b6350b549943dee818434f3f, type: 3}
+    atkAdvantageType: 0e0000000b000000
+    atkInferiorityType: 100000001200000007000000
+    atkInvalidType: 
+    hitAdvantageType: 070000000c00000012000000
+    hitInferiorityType: 0e00000010000000
+    hitInvalidType: 0b000000
+  - pokemonType: 17
+    typeImage: {fileID: 21300000, guid: 89a0a1c96d5227346976b6099cd2f58d, type: 3}
+    atkAdvantageType: 060000000d00000012000000
+    atkInferiorityType: 11000000020000000300000004000000
+    atkInvalidType: 
+    hitAdvantageType: 020000000700000009000000
+    hitInferiorityType: 010000000b000000050000000a0000000c00000011000000120000000f000000060000000d000000
+    hitInvalidType: 08000000
+  - pokemonType: 18
+    typeImage: {fileID: 21300000, guid: 34b03094a7a016e46a6c4ac6273d4c76, type: 3}
+    atkAdvantageType: 070000000f00000010000000
+    atkInferiorityType: 020000000800000011000000
+    atkInvalidType: 
+    hitAdvantageType: 0800000011000000
+    hitInferiorityType: 070000000c00000010000000
+    hitInvalidType: 0f000000
+  typeIconList:
+  - type: 1
+    icon: {fileID: 21300000, guid: 7bbd983848803054bbbe87aa3570a1eb, type: 3}
+  - type: 2
+    icon: {fileID: 21300000, guid: f97637d32c08cea4abbe8ae40c0af5ea, type: 3}
+  - type: 3
+    icon: {fileID: 21300000, guid: 14ed3a3b2557e3040ac7765446aa4655, type: 3}
+  - type: 4
+    icon: {fileID: 21300000, guid: a81891dfb8a842c4e80e62338ab71771, type: 3}
+  - type: 5
+    icon: {fileID: 21300000, guid: 7fc45f4dcc0c3b447994d9e57e6857da, type: 3}
+  - type: 6
+    icon: {fileID: 21300000, guid: 2e6c2483775c240418b8fff65c6b9fba, type: 3}
+  - type: 7
+    icon: {fileID: 21300000, guid: 792bc1f2ede4b714f98b4ce7320de817, type: 3}
+  - type: 8
+    icon: {fileID: 21300000, guid: 7632d804effc40d4287489191b9b9cfa, type: 3}
+  - type: 9
+    icon: {fileID: 21300000, guid: 8d159715323ea1d45bdb29a7f08358dd, type: 3}
+  - type: 10
+    icon: {fileID: 21300000, guid: ae2b5036195bad443aa95f2b089984f7, type: 3}
+  - type: 11
+    icon: {fileID: 21300000, guid: 8105cb8fba8dd5345ae20b3af9c58934, type: 3}
+  - type: 12
+    icon: {fileID: 21300000, guid: 35cfca428d236bf439f2e2093bee94bf, type: 3}
+  - type: 13
+    icon: {fileID: 21300000, guid: 79e9492031bb16744a23ea969ee48f85, type: 3}
+  - type: 14
+    icon: {fileID: 21300000, guid: 8ec17a6d13e7ad24eba7a43e2c40f3a6, type: 3}
+  - type: 15
+    icon: {fileID: 21300000, guid: 64cedb80d968eb94ea6fa2515ff0d458, type: 3}
+  - type: 16
+    icon: {fileID: 21300000, guid: 4fd21fdf0f6625d478a5ecc914fcf06f, type: 3}
+  - type: 17
+    icon: {fileID: 21300000, guid: 0e00a7e1aebaf1944a18c43d83f5db7d, type: 3}
+  - type: 18
+    icon: {fileID: 21300000, guid: fedb46d7a882edb41b51ac67420c1a79, type: 3}

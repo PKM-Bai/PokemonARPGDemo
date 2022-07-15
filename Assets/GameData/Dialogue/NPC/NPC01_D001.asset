@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a161677d66d6ab43b5747ecaea4a92a, type: 3}
+  m_Name: NPC01_D001
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - id: piece01
+    image: {fileID: 0}
+    text: "\u6B22\u8FCE\u6765\u5230\u5B9D\u53EF\u68A6\u4E16\u754C\uFF01\n\u4F60\u770B\u8D77\u6765\u50CF\u662F\u4E2A\u5916\u5730\u4EBA\uFF0C\u6211\u7ED9\u4F60\u8BB2\u89E3\u4E00\u4E0B\u57FA\u7840\u89C4\u5219\u5427"
+    options: []
+  - id: piece02
+    image: {fileID: 0}
+    text: "\u6309\u201CB\u201D\u952E\u6253\u5F00\u80CC\u5305\n\u6309\u201CTab\"\u952E\u6253\u5F00\u5B9D\u53EF\u68A6\u8BE6\u60C5\u9762\u677F\uFF0C\u4F60\u660E\u767D\u4E86\u5417"
+    options:
+    - text: "\u660E\u767D\u4E86"
+      targetID: piece03
+      takeQuest: 0
+    - text: "\u6CA1\u542C\u6E05\u695A\uFF0C\u8BF7\u91CD\u590D\u4E00\u904D"
+      targetID: piece01
+      takeQuest: 0
+  - id: piece03
+    image: {fileID: 0}
+    text: "\u8BF7\u4EAB\u53D7\u8FD9\u4E2A\u5145\u6EE1\u9B45\u529B\u7684\u4E16\u754C\u5427~"
+    options:
+    - text: "\u597D\u7684"
+      targetID: 
+      takeQuest: 0

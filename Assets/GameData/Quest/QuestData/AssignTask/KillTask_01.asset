@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e86ce7e50d167a47aaeb6c6ce4600db, type: 3}
+  m_Name: KillTask_01
+  m_EditorClassIdentifier: 
+  questId: 0-2-002
+  questType: 1
+  questName: "\u5236\u670D\u8349\u82D7\u9F9F"
+  description: "\u542C\u8BF4\u6700\u8FD1\u5728\u591C\u665A\u8349\u82D7\u9F9F\u7FA4\u88AB\u4EC0\u4E48\u63A7\u5236\u4E86\uFF0C\u5230\u5904\u641E\u7834\u574F\uFF0C\u8BF7\u524D\u53BB\u5236\u670D\u4ED6\u4EEC\u3002"
+  isStarted: 0
+  isProgressed: 0
+  isComplete: 0
+  isFinished: 0
+  startDialogue: {fileID: 0}
+  progressDialogue: {fileID: 0}
+  completeDialogue: {fileID: 0}
+  finishDialogue: {fileID: 0}
+  questRequires:
+  - requireType: 1
+    name: "\u8349\u82D7\u9F9F"
+    requireAmout: 3
+    currentAmout: 0
+  questRewards:
+  - rewardType: 0
+    money: 200
+    exp: 0
+    item:
+      itemName: 
+      itemCount: 0
+  - rewardType: 1
+    money: 0
+    exp: 400
+    item:
+      itemName: 
+      itemCount: 0
+  - rewardType: 2
+    money: 0
+    exp: 0
+    item:
+      itemName: "\u4F24\u836F"
+      itemCount: 3

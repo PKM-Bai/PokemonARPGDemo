@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53b620ba427f9ac42942d6331d66b4ef, type: 3}
+  m_Name: PokemonDataBase_SO
+  m_EditorClassIdentifier: 
+  pokemons:
+  - {fileID: 11400000, guid: f263c3df2c0bdc2459f563abce519b91, type: 2}
+  - {fileID: 11400000, guid: af622c2d8eaca654aa7e794957281414, type: 2}
+  - {fileID: 11400000, guid: 55d318f6edda76948982b23320516d1e, type: 2}
+  - {fileID: 11400000, guid: eaa054d74f2deae45bdcc926c91795a9, type: 2}
+  - {fileID: 11400000, guid: bd76519912540d5418c13f36b2d3a921, type: 2}
+  - {fileID: 11400000, guid: 069e1ee6113a96d47b2ff628f41ec70a, type: 2}
+  - {fileID: 11400000, guid: 888490186c44858479eb6848be3782a3, type: 2}
+  - {fileID: 11400000, guid: 3411381459afc014d84d34568dbc067d, type: 2}
+  - {fileID: 11400000, guid: 523e2de6d102d984dbf3e87383782e20, type: 2}
+  - {fileID: 11400000, guid: 852470a7145979f448b160fffa173309, type: 2}
+  - {fileID: 11400000, guid: dce7cc0dd0e02fd4a83263b54c7d0a1a, type: 2}

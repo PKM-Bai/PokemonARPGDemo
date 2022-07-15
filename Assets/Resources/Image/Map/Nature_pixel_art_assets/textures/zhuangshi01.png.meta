@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 97f89ab1d44276f4d99c5a5d3751ea7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3186890534392116016
+    second: zhuangshi01_bed1
+  - first:
+      213: -8017807318207678214
+    second: zhuangshi01_gu1
+  - first:
+      213: -7744649573065902348
+    second: zhuangshi01_shitou1
+  - first:
+      213: 6341360234285375842
+    second: zhuangshi01_shikuai1
+  - first:
+      213: -7490629549607168522
+    second: zhuangshi01_gu2
+  - first:
+      213: 8357914591476292869
+    second: zhuangshi01_charfan
+  - first:
+      213: 8772663133632030883
+    second: zhuangshi01_charzheng
+  - first:
+      213: -222817720082337592
+    second: zhuangshi01_charyou
+  - first:
+      213: -990332755135951800
+    second: zhuangshi01_charzuo
+  - first:
+      213: -6806763086996329438
+    second: zhuangshi01_zhuozi1
+  - first:
+      213: -8308130616472210505
+    second: zhuangshi01_bookzuo1
+  - first:
+      213: -2414140632558469402
+    second: zhuangshi01_bookyou1
+  - first:
+      213: -6318292593241040676
+    second: zhuangshi01_book1
+  - first:
+      213: -532815125619863715
+    second: zhuangshi01_color1
+  - first:
+      213: -2762189856057918871
+    second: zhuangshi01_color2
+  - first:
+      213: 861511337956186086
+    second: zhuangshi01_color3
+  - first:
+      213: 419523294303161592
+    second: zhuangshi01_color4
+  - first:
+      213: 5386104092014741085
+    second: zhuangshi01_color5
+  - first:
+      213: 1741466371997638860
+    second: zhuangshi01_color6
+  - first:
+      213: 1543392480047806914
+    second: zhuangshi01_color7
+  - first:
+      213: 2814248431543169253
+    second: zhuangshi01_color8
+  - first:
+      213: -43128382628966097
+    second: zhuangshi01_color9
+  - first:
+      213: -2678185905820804253
+    second: zhuangshi01_yijia1
+  - first:
+      213: 5294284888197394795
+    second: zhuangshi01_window
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zhuangshi01_bed1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0333f706e0c1a3c20800000000000000
+      internalID: 3186890534392116016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_gu1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 40
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af834b869b60bb090800000000000000
+      internalID: -8017807318207678214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_shitou1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.73972994, y: 0.99943733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b6870f3a758490800000000000000
+      internalID: -7744649573065902348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_shikuai1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2612e5df889010850800000000000000
+      internalID: 6341360234285375842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_gu2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5de979c10fb0890800000000000000
+      internalID: -7490629549607168522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_charfan
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d9fffe9074df370800000000000000
+      internalID: 8357914591476292869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_charzheng
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a86d46f3a2ceb970800000000000000
+      internalID: 8772663133632030883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_charyou
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c074d0d67468ecf0800000000000000
+      internalID: -222817720082337592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_charzuo
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 34
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c00b03b91a142f0800000000000000
+      internalID: -990332755135951800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_zhuozi1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca75149058981a0800000000000000
+      internalID: -6806763086996329438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_bookzuo1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b370a1093793bc80800000000000000
+      internalID: -8308130616472210505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_bookyou1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef386a2ef3f7ed0800000000000000
+      internalID: -2414140632558469402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_book1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8d2e8bc5ae058a0800000000000000
+      internalID: -6318292593241040676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_color1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f097a577f0b98f0800000000000000
+      internalID: -532815125619863715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_color2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96afa7be5fabaa9d0800000000000000
+      internalID: -2762189856057918871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_color3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e799d45ff3b4fb00800000000000000
+      internalID: 861511337956186086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_color4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc01f3a63272d500800000000000000
+      internalID: 419523294303161592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_color5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 22
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5601d782294fba40800000000000000
+      internalID: 5386104092014741085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_color6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0253b407eea2810800000000000000
+      internalID: 1741466371997638860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_color7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9324a884b3b6510800000000000000
+      internalID: 1543392480047806914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_color8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0b4d7b9083e0720800000000000000
+      internalID: 2814248431543169253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_color9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d9a9e6f6c66ff0800000000000000
+      internalID: -43128382628966097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_yijia1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 39
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bd719bb1c25dad0800000000000000
+      internalID: -2678185905820804253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuangshi01_window
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 17
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6179b43e04197940800000000000000
+      internalID: 5294284888197394795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zhuangshi01_color7: 1543392480047806914
+      zhuangshi01_charzuo: -990332755135951800
+      zhuangshi01_gu2: -7490629549607168522
+      zhuangshi01_charyou: -222817720082337592
+      zhuangshi01_zhuozi1: -6806763086996329438
+      zhuangshi01_book1: -6318292593241040676
+      zhuangshi01_gu1: -8017807318207678214
+      zhuangshi01_color6: 1741466371997638860
+      zhuangshi01_bookyou1: -2414140632558469402
+      zhuangshi01_charfan: 8357914591476292869
+      zhuangshi01_color8: 2814248431543169253
+      zhuangshi01_yijia1: -2678185905820804253
+      zhuangshi01_color2: -2762189856057918871
+      zhuangshi01_color1: -532815125619863715
+      zhuangshi01_charzheng: 8772663133632030883
+      zhuangshi01_shikuai1: 6341360234285375842
+      zhuangshi01_color4: 419523294303161592
+      zhuangshi01_color9: -43128382628966097
+      zhuangshi01_shitou1: -7744649573065902348
+      zhuangshi01_color3: 861511337956186086
+      zhuangshi01_color5: 5386104092014741085
+      zhuangshi01_window: 5294284888197394795
+      zhuangshi01_bed1: 3186890534392116016
+      zhuangshi01_bookzuo1: -8308130616472210505
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81c5f9559c52c2f4b95cb9af7bebfcaf, type: 3}
+  m_Name: "9\u53EB\u58F0"
+  m_EditorClassIdentifier: 
+  id: 9
+  skillName: 8
+  image: {fileID: 0}
+  type: 1
+  category: 2
+  hurtCategory: 2
+  moveType: 
+  power: "\u2014"
+  maxPP: 35
+  currentPP: 35
+  info: "\u8BA9\u5BF9\u624B\u542C\u53EF\u7231\u7684\u53EB\u58F0\uFF0C\u5F15\u5F00\u6CE8\u610F\u529B\u4F7F\u5176\u758F\u5FFD\uFF0C\u4ECE\u800C\u964D\u4F4E\u5BF9\u624B\u7684\u653B\u51FB\u3002"
+  addedEffect: {fileID: 11400000, guid: e3d0d43c0ca1b464c964621727a44618, type: 2}
+  triggerProbability: 100
+  reachLevel: 2

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b3bda4e19f31fa469fdbe310ecd8d76, type: 3}
+  m_Name: InformationData
+  m_EditorClassIdentifier: 
+  informations:
+  - townName: 0
+    info: "\u770B\u5230\u5916\u89C2\u957F\u5F97\u50CF\u7CBE\u7075\u7403\u7684\u4E1C\u897F\uFF0C\u6253\u5F00\u53EF\u80FD\u4F1A\u5F97\u5230<color=red>\u968F\u673A\u7684\u9053\u5177</color>\uFF0C\u6709\u7684\u662F<color=red>\u56FA\u5B9A\u7ED9\u4E88</color>\uFF0C\u8FD8\u6709\u7684\u53EF\u80FD\u4F1A<color=red>\u83B7\u5F97\u591A\u4E2A\u9053\u5177</color>\u3002"

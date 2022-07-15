@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: b5a94f680a6f24a48b62ab29f8597937
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8459382975335404289
+    second: pikaqiu-idle-not_0
+  - first:
+      213: 926674944739775234
+    second: pikaqiu-idle-not_1
+  - first:
+      213: -4290855840636269436
+    second: pikaqiu-idle-not_2
+  - first:
+      213: -2027960669820888940
+    second: pikaqiu-idle-not_3
+  - first:
+      213: -7169480202393544305
+    second: pikaqiu-idle-not_4
+  - first:
+      213: -7233107717188567610
+    second: pikaqiu-idle-not_5
+  - first:
+      213: -7825370044723992206
+    second: pikaqiu-idle-not_6
+  - first:
+      213: 9002831048548751123
+    second: pikaqiu-idle-not_7
+  - first:
+      213: 409606055709781249
+    second: pikaqiu-idle-not_8
+  - first:
+      213: 1109913031591277346
+    second: pikaqiu-idle-not_9
+  - first:
+      213: -371427843166739624
+    second: pikaqiu-idle-not_10
+  - first:
+      213: 3997456385331426089
+    second: pikaqiu-idle-not_11
+  - first:
+      213: -4807857437203483285
+    second: pikaqiu-idle-not_12
+  - first:
+      213: -7022011018481187086
+    second: pikaqiu-idle-not_13
+  - first:
+      213: -7990999895730640558
+    second: pikaqiu-idle-not_14
+  - first:
+      213: -6270084167403302363
+    second: pikaqiu-idle-not_15
+  - first:
+      213: 8548673737459194672
+    second: pikaqiu-idle-not_16
+  - first:
+      213: 8084528578766509134
+    second: pikaqiu-idle-not_17
+  - first:
+      213: 4524156974364672812
+    second: pikaqiu-idle-not_18
+  - first:
+      213: -5605748289489290085
+    second: pikaqiu-idle-not_19
+  - first:
+      213: 5360429024737158593
+    second: pikaqiu-idle-not_20
+  - first:
+      213: -237785167347994912
+    second: pikaqiu-idle-not_21
+  - first:
+      213: 2275917470328023481
+    second: pikaqiu-idle-not_22
+  - first:
+      213: 7880038297567038122
+    second: pikaqiu-idle-not_23
+  - first:
+      213: 3391095189987143213
+    second: pikaqiu-idle-not_24
+  - first:
+      213: 4085534509267957428
+    second: pikaqiu-idle-not_25
+  - first:
+      213: -1014315587506629405
+    second: pikaqiu-idle-not_26
+  - first:
+      213: 6665235600643051608
+    second: pikaqiu-idle-not_27
+  - first:
+      213: -5889634554445640069
+    second: pikaqiu-idle-not_28
+  - first:
+      213: -4163357722149894824
+    second: pikaqiu-idle-not_29
+  - first:
+      213: -1287068474564893348
+    second: pikaqiu-idle-not_30
+  - first:
+      213: -3040214956889474415
+    second: pikaqiu-idle-not_31
+  - first:
+      213: 1367660641831114094
+    second: pikaqiu-idle-not_32
+  - first:
+      213: 2087561472906687488
+    second: pikaqiu-idle-not_33
+  - first:
+      213: -8274899056780858680
+    second: pikaqiu-idle-not_34
+  - first:
+      213: -7798234003503311374
+    second: pikaqiu-idle-not_35
+  - first:
+      213: -6379026637025596315
+    second: pikaqiu-idle-not_36
+  - first:
+      213: 3723401167473442741
+    second: pikaqiu-idle-not_37
+  - first:
+      213: -67466350646806436
+    second: pikaqiu-idle-not_38
+  - first:
+      213: -7192110279709482695
+    second: pikaqiu-idle-not_39
+  - first:
+      213: 2099959990098100461
+    second: pikaqiu-idle-not_40
+  - first:
+      213: 340667644038710691
+    second: pikaqiu-idle-not_41
+  - first:
+      213: -4306741695082560956
+    second: pikaqiu-idle-not_48
+  - first:
+      213: 2047793323540184443
+    second: pikaqiu-idle-not_42
+  - first:
+      213: -3015205078971009401
+    second: pikaqiu-idle-not_43
+  - first:
+      213: -7497422892644979644
+    second: pikaqiu-idle-not_44
+  - first:
+      213: 6615470352882439335
+    second: pikaqiu-idle-not_45
+  - first:
+      213: -2702211197340910432
+    second: pikaqiu-idle-not_46
+  - first:
+      213: -1640560546708296695
+    second: pikaqiu-idle-not_47
+  - first:
+      213: -569168778271731579
+    second: pikaqiu-idle-not_49
+  - first:
+      213: -4331115848250402745
+    second: pikaqiu-idle-not_50
+  - first:
+      213: -8217072034115939226
+    second: pikaqiu-idle-not_51
+  - first:
+      213: -6327947314125561077
+    second: pikaqiu-idle-not_52
+  - first:
+      213: 3108974672803371753
+    second: pikaqiu-idle-not_53
+  - first:
+      213: -7218430188743814976
+    second: pikaqiu-idle-not_54
+  - first:
+      213: -8634466690991026119
+    second: pikaqiu-idle-not_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc6520f00c3a9a80800000000000000
+      internalID: -8459382975335404289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031877d3f53cdc00800000000000000
+      internalID: 926674944739775234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498dcd0f38c3bd3e0800000000000000
+      internalID: -2027960669820888940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f891320ddb3e08c90800000000000000
+      internalID: -7169480202393544305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d2e6899863fa500800000000000000
+      internalID: 409606055709781249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8536b54385c68daf0800000000000000
+      internalID: -371427843166739624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923fbcc2761d97730800000000000000
+      internalID: 3997456385331426089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb6d69ad6de9b90800000000000000
+      internalID: -7233107717188567610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223339b8504376f00800000000000000
+      internalID: 1109913031591277346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c077cc851d374c0800000000000000
+      internalID: -4290855840636269436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2796e38a763b66390800000000000000
+      internalID: -7825370044723992206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikaqiu-idle-not_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3171b9db32b70fc70800000000000000
+      internalID: 9002831048548751123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pikaqiu-idle-not_7: 9002831048548751123
+      pikaqiu-idle-not_4: -7169480202393544305
+      pikaqiu-idle-not_10: -371427843166739624
+      pikaqiu-idle-not_11: 3997456385331426089
+      pikaqiu-idle-not_3: -2027960669820888940
+      pikaqiu-idle-not_5: -7233107717188567610
+      pikaqiu-idle-not_6: -7825370044723992206
+      pikaqiu-idle-not_9: 1109913031591277346
+      pikaqiu-idle-not_0: -8459382975335404289
+      pikaqiu-idle-not_2: -4290855840636269436
+      pikaqiu-idle-not_1: 926674944739775234
+      pikaqiu-idle-not_8: 409606055709781249
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

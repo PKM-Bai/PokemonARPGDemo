@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e86ce7e50d167a47aaeb6c6ce4600db, type: 3}
+  m_Name: TeamMaxLevelTask_20
+  m_EditorClassIdentifier: 
+  questId: 1-3-004
+  questType: 0
+  questName: "\u961F\u4F0D\u7B49\u7EA7\u8FBE\u523020\u7EA7"
+  description: "\u5728\u961F\u4F0D\u4E2D\u57F9\u517B\u4E00\u53EA\u7B49\u7EA7\u8D85\u8FC720\u7EA7\u7684\u5B9D\u53EF\u68A6\u3002"
+  isStarted: 0
+  isProgressed: 0
+  isComplete: 0
+  isFinished: 0
+  startDialogue: {fileID: 0}
+  progressDialogue: {fileID: 0}
+  completeDialogue: {fileID: 0}
+  finishDialogue: {fileID: 0}
+  questRequires:
+  - requireType: 2
+    name: "\u961F\u4F0D\u6700\u9AD8"
+    requireAmout: 20
+    currentAmout: 0
+  questRewards:
+  - rewardType: 0
+    money: 600
+    exp: 0
+    item:
+      itemName: 
+      itemCount: 0
+  - rewardType: 1
+    money: 0
+    exp: 200
+    item:
+      itemName: 
+      itemCount: 0
+  - rewardType: 2
+    money: 0
+    exp: 0
+    item:
+      itemName: "\u8BB2\u7A76\u773C\u955C"
+      itemCount: 1

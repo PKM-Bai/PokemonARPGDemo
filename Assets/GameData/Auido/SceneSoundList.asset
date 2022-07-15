@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 563c5e2f0b1785e45a9d15b0293f462f, type: 3}
+  m_Name: SceneSoundList
+  m_EditorClassIdentifier: 
+  sceneSoundList:
+  - sceneName: 01.StartMenuUI
+    music: 9
+  - sceneName: T01.LittlerootTown
+    music: 10
+  - sceneName: B01.Guide01
+    music: 11
+  - sceneName: B02.Guide02
+    music: 11

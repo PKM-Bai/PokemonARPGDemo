@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852b5996f6a21fd4b9bf200912a0965d, type: 3}
+  m_Name: 001_Bulbasaur
+  m_EditorClassIdentifier: 
+  pokemonRoleImage: []
+  PUID: 3241XA
+  "pok\xE9dexID": 448
+  pokmeonName: "\u5999\u86D9\u79CD\u5B50"
+  sex: 1
+  nature: 9
+  firstType: 5
+  secondType: 0
+  ability:
+    abilityName: 
+    abilityEnum: 0
+  level: 10
+  experience: 1000
+  currentExperience: 0
+  upLevelExperience: 1000
+  holdingsItem: 
+  currentHP: 32
+  criticalHit: 0
+  Stat:
+    HP: 32
+    Attack: 16
+    Defense: 18
+    SpecialAttack: 21
+    SpecialDefense: 19
+    Speed: 12
+  speciesStrength:
+    HP: 45
+    Attack: 49
+    Defense: 49
+    SpecialAttack: 65
+    SpecialDefense: 65
+    Speed: 45
+  individual:
+    HPIV: 30
+    AttackIV: 21
+    DefenseIV: 24
+    SpecialAttackIV: 30
+    SpecialDefenseIV: 16
+    SpeedIV: 8
+  basePoints:
+    HP: 0
+    Attack: 0
+    Defense: 0
+    SpecialAttack: 0
+    SpecialDefense: 0
+    Speed: 0
+  equippedSkills: {fileID: 0}
+  skillToCanLearn: {fileID: 0}
